@@ -1,0 +1,363 @@
+Time: 0
+Waiting clients: (0, 5, 2) (3, 7, 3) (2, 19, 3) (1, 28, 2) 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 1
+Waiting clients: (0, 5, 2) (3, 7, 3) (2, 19, 3) (1, 28, 2) 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 2
+Waiting clients: (0, 5, 2) (3, 7, 3) (2, 19, 3) (1, 28, 2) 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 3
+Waiting clients: (0, 5, 2) (3, 7, 3) (2, 19, 3) (1, 28, 2) 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 4
+Waiting clients: (0, 5, 2) (3, 7, 3) (2, 19, 3) (1, 28, 2) 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 5
+Waiting clients: (3, 7, 3) (2, 19, 3) (1, 28, 2) 
+QueueModel.Server@2a145deb: (0, 5, 2) 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 6
+Waiting clients: (3, 7, 3) (2, 19, 3) (1, 28, 2) 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 7
+Waiting clients: (2, 19, 3) (1, 28, 2) 
+QueueModel.Server@2a145deb: (3, 7, 3) 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 8
+Waiting clients: (2, 19, 3) (1, 28, 2) 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 9
+Waiting clients: (2, 19, 3) (1, 28, 2) 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 10
+Waiting clients: (2, 19, 3) (1, 28, 2) 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 11
+Waiting clients: (2, 19, 3) (1, 28, 2) 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 12
+Waiting clients: (2, 19, 3) (1, 28, 2) 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 13
+Waiting clients: (2, 19, 3) (1, 28, 2) 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 14
+Waiting clients: (2, 19, 3) (1, 28, 2) 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 15
+Waiting clients: (2, 19, 3) (1, 28, 2) 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 16
+Waiting clients: (2, 19, 3) (1, 28, 2) 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 17
+Waiting clients: (2, 19, 3) (1, 28, 2) 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 18
+Waiting clients: (2, 19, 3) (1, 28, 2) 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 19
+Waiting clients: (1, 28, 2) 
+QueueModel.Server@2a145deb: (2, 19, 3) 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 20
+Waiting clients: (1, 28, 2) 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 21
+Waiting clients: (1, 28, 2) 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 22
+Waiting clients: (1, 28, 2) 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 23
+Waiting clients: (1, 28, 2) 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 24
+Waiting clients: (1, 28, 2) 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 25
+Waiting clients: (1, 28, 2) 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 26
+Waiting clients: (1, 28, 2) 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 27
+Waiting clients: (1, 28, 2) 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 28
+Waiting clients: 
+QueueModel.Server@2a145deb: (1, 28, 2) 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 29
+Waiting clients: 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 30
+Waiting clients: 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 31
+Waiting clients: 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 32
+Waiting clients: 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 33
+Waiting clients: 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 34
+Waiting clients: 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 35
+Waiting clients: 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 36
+Waiting clients: 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 37
+Waiting clients: 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 38
+Waiting clients: 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 39
+Waiting clients: 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 40
+Waiting clients: 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 41
+Waiting clients: 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 42
+Waiting clients: 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 43
+Waiting clients: 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 44
+Waiting clients: 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 45
+Waiting clients: 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 46
+Waiting clients: 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 47
+Waiting clients: 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 48
+Waiting clients: 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 49
+Waiting clients: 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 50
+Waiting clients: 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 51
+Waiting clients: 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 52
+Waiting clients: 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 53
+Waiting clients: 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 54
+Waiting clients: 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 55
+Waiting clients: 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 56
+Waiting clients: 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 57
+Waiting clients: 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 58
+Waiting clients: 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Time: 59
+Waiting clients: 
+QueueModel.Server@2a145deb: 
+QueueModel.Server@3f99d53c: 
+
+------------------------------------------------------------------
+Peak hour: 5
+Average waiting time: 0.25
+Average service time: 2.5
